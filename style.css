@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Sigmar", serif;
+}
+body{
+    background: linear-gradient(#B7B1F2, #2D336B);
+}
+
+.swiper{
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+    transition: all 1s;
+    margin: 150px auto;
+}
+.swiper:hover{
+    box-shadow: 2px 2px 100px 30px white;  
+    transition: all 1s;  
+}
+
+.h11{
+    background: -webkit-linear-gradient(#003ebb, #5900ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 20px 0px 0px 570px;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+
+.img1{
+    width: 440px;
+    height: 400px;
+}
+
+.img2{
+    width: 490px;
+    height: 400px;
+}
+
+.img3{
+    width: 380px;
+    height: 350px;
+}
+
+.img4{
+    width: 380px;
+    height: 400px;
+}
+
+.img5{
+    width: 440px;
+    height: 400px;
+}
+
+.img6{
+    width: 360px;
+    height: 400px;
+}
+
+.img8{
+    width: 390px;
+    height: 400px;
+}
+
+.img9{
+    width: 380px;
+    height: 400px;
+}
+
+.img10{
+    width: 360px;
+    height: 400px;
+}
+
+.img11{
+    width: 370px;
+    height: 370px;
+}
+
+.img12{
+    width: 350px;
+    height: 390px;
+}
+
+.img13{
+    width: 400px;
+    height: 400px;
+}
+
+.img14{
+    width: 380px;
+    height: 350px;
+}
+
+.img15{
+    width: 390px;
+    height: 350px;
+}
+
+.img16{
+    width: 430px;
+    height: 410px;
+}
+
+.img17{
+    width: 350px;
+    height: 380px;
+}
+
+.img18{
+    width: 400px;
+    height: 400px;
+}
+
+.img19{
+    width: 380px;
+    height: 420px;
+}
+
+.img20{
+    width: 400px;
+    height: 390px;
+}
+
+.img21{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+.swiper-button-prev{
+    display: flex;
+    margin: 0px 0px 0px 0px;
+}
